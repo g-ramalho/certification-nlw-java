@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
    ```
    docker-compose up -d
    ```
-   ^ the command above didnt work on linux, you might have to try `docker compose up -d` depending on your OS
+   ^ *you might have to try `docker compose up -d` depending on your OS* ^
 
 3. **Build the project**:
    ```
